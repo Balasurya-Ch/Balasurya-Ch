@@ -60,7 +60,7 @@ At **Introlligent Inc**, I've focused on turning fragmented operational data int
         ### Supply Chain & Operations
         ![Operations](https://img.shields.io/badge/Operations_Analytics-2C3E50?style=flat-square)
         ![Supply Chain](https://img.shields.io/badge/Supply_Chain_Optimization-16A085?style=flat-square)
-        ![Forecasting](https://img.shields.io/badge/Demand_&_Capacity_Planning-E74C3C?style=flat-square)
+        ![Forecasting](https://img.shields.io/badge/Demand_Capacity_Planning-E74C3C?style=flat-square)
         ![Queuing](https://img.shields.io/badge/Queuing_Theory-8E44AD?style=flat-square)
 
         ### Tools & Platforms
@@ -74,158 +74,114 @@ At **Introlligent Inc**, I've focused on turning fragmented operational data int
 
         ## Featured Projects
 
-        <table>
-          <tr>
-            <td width="50%" valign="top">
-     
-              ### 📉 [Credit Risk & Treatment Effect Analysis](https://github.com/Balasurya-Ch/Finance-and-Credit)
-        **Fleetcor Account Management · Financial Analytics**
-     
-        Quantified the financial impact of proactive credit interventions across high-risk commercial accounts using causal inference and predictive modeling.
-     
+        ### 📉 [Credit Risk Intervention & Treatment Effect Analysis](https://github.com/Balasurya-Ch/Finance-and-Credit)
+        **Fleetcor Account Management · Financial Analytics · Causal Inference**
+
+        Quantified the financial impact of proactive credit interventions across high-risk commercial accounts using propensity score matching, ridge regression, and churn classification — answering whether treatment caused savings or merely correlated with lower-risk accounts.
+
         `Python` `scikit-learn` `Propensity Score Matching` `Ridge Regression` `Tableau`
-     
-        **Outcomes:**
-        - ~$70M in projected write-off savings identified
-        - - 89% churn prediction accuracy
-          - - $785 avg. treatment effect per account
-           
-            - </td>
-            <td width="50%" valign="top">
-       
-            ### 🚌 [Public Transit Operations Optimization](https://github.com/Balasurya-Ch/Public_Transport_Supply_Chain_Operations)
-            **CT Transit · Supply Chain & Operations**
-       
-            Applied queuing theory, demand forecasting, and center-of-gravity optimization to improve fleet utilization, reduce passenger wait times, and lower operating costs across a regional transit corridor.
-       
-            `Excel` `Operations Analytics` `Forecasting` `Queuing Theory` `CoG Optimization`
-       
-            **Outcomes:**
-            - 25-28% reduction in avg. passenger wait time
-            - - $100K+ annualized revenue impact per route
-              - - 10-15% operating cost reduction projected
-               
-                - </td>
-                </tr>
-                <tr>
-                  <td width="50%" valign="top">
+
+        | Outcome | Value |
+        |---|---|
+        | Write-off savings identified | ~$70M |
+        | Churn prediction accuracy | 89% |
+        | Avg. treatment effect per account | -$785 |
+
+        ---
+
+        ### 🚌 [Public Transit Operations Optimization](https://github.com/Balasurya-Ch/Public_Transport_Supply_Chain_Operations)
+        **CT Transit · Supply Chain & Operations · Quantitative Methods**
+
+        Applied queuing theory (Little's Law), demand forecasting, and center-of-gravity facility location to improve fleet utilization, reduce passenger wait times, and lower operating costs across a regional transit corridor.
+
+        `Excel` `Operations Analytics` `Queuing Theory` `Demand Forecasting` `Centre of Gravity`
+
+        | Outcome | Value |
+        |---|---|
+        | Passenger wait time reduction | 25-28% |
+        | Annualized route revenue impact | $100K+ |
+        | Operating cost reduction (projected) | 10-15% |
+
+        ---
+
+        ### 🏭 [Retail Supply Chain Quality & Cost Analytics](https://github.com/Balasurya-Ch/Retail_Supply_Chain_Work)
+        **IKEA Case Study · Global Supply Chain · Supplier Analytics**
+
+        Analyzed supplier defect concentration, logistics damage rates, and fulfillment gaps across a multi-country retail supply chain using Pareto analysis and SPC concepts — identifying the 20% of suppliers driving 75-80% of quality failures.
+
+        `Excel` `Pareto Analysis` `KPI Design` `SPC` `Cost Modeling`
+
+        | Outcome | Value |
+        |---|---|
+        | Missing parts rate reduction target | 25-30% |
+        | Supply chain cost reduction pathway | 8-12% |
+        | Customer complaint reduction target | ~20% |
+
+        ---
+
+        ### 🤖 [NLP-Powered Task Intelligence System](https://github.com/Balasurya-Ch/Task-Management-System-ML)
+        **ML Engineering · NLP · Operational Workflow Automation**
+
+        Built a Flask-deployed task management application using spaCy NLP and scikit-learn to classify, prioritize, and surface actionable work items from unstructured free-text inputs — demonstrating a production-capable triage pipeline.
+
+        `Python` `spaCy` `Flask` `scikit-learn` `Jupyter`
+
+        ---
+
+        ### 🎮 [Collaborative Filtering Recommendation Engine](https://github.com/Balasurya-Ch/Game_Recommendation_System)
+        **ML Engineering · Personalization Systems**
+
+        Developed a hybrid recommendation engine using collaborative filtering and content-based methods, deployed via a Python web application. Methodology is directly applicable to product recommendation and demand personalization in business contexts.
+
+        `Python` `scikit-learn` `Flask` `Jupyter` `Collaborative Filtering`
+
+        ---
+
+        ## GitHub Analytics
+
+        <div align="center">
+
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balasurya-Ch&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balasurya-Ch&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+
+        </div>
+
+        ---
+
+        ## Domain Coverage
+
+        | Domain | Projects | Key Methods |
+        |---|---|---|
+        | Financial Analytics | Credit Risk, Treatment Effect | PSM, Ridge Regression, Churn Modeling |
+        | Supply Chain | Retail, Transit, Logistics | Pareto, SPC, Cost Optimization, CoG |
+        | Operations Research | Transit Planning | Queuing Theory, Demand Forecasting |
+        | Machine Learning | Recommendation, NLP, Classification | Random Forest, Collaborative Filtering, spaCy |
+        | Business Intelligence | KPI Design, Dashboard Reporting | Power BI, Tableau, Excel |
+
+        ---
+
+        ## Currently
+
+        - 🏢 **Analyst @ Introlligent Inc** — working on operational analytics and business strategy
+        - - 📊 Building out a Power BI KPI dashboard portfolio
+          - - 🔍 Deepening SQL skills for large-scale analytical workloads
+            - - 📚 Studying advanced time series forecasting and dbt for analytics engineering pipelines
              
-                    ### 🏭 [Retail Supply Chain Quality & Cost Analytics](https://github.com/Balasurya-Ch/Retail_Supply_Chain_Work)
-                **IKEA Case Study · Global Supply Chain Management**
-             
-                Analyzed supplier defect patterns, logistics damage rates, and component fulfillment gaps across a multi-country retail supply chain using Pareto analysis and SPC methods.
-             
-                `Business Analytics` `Pareto Analysis` `KPI Design` `SPC` `Excel`
-             
-                **Outcomes:**
-                - Identified 20% of suppliers driving 75-80% of defects
-                - - Projected 25-30% reduction in missing parts rate
-                  - - 8-12% supply chain cost reduction pathway defined
-                   
-                    - </td>
-                    <td width="50%" valign="top">
-             
-                    ### 🤖 [NLP-Powered Task Intelligence System](https://github.com/Balasurya-Ch/Task-Management-System-ML)
-                    **ML Engineering · Operational Productivity**
-             
-                    Built a Flask-deployed task management application using NLP (spaCy) and machine learning to classify, prioritize, and surface actionable work items from unstructured text inputs.
-             
-                    `Python` `spaCy` `Flask` `scikit-learn` `Jupyter` `NLP`
-             
-                    **Outcomes:**
-                    - Full-stack ML deployment (local web app)
-                    - - Automated task classification from natural language input
-                      - - Modular pipeline extensible to enterprise workflows
-                       
-                        - </td>
-                        </tr>
-                        <tr>
-                          <td width="50%" valign="top">
-                     
-                            ### 🎮 [Collaborative Filtering Recommendation Engine](https://github.com/Balasurya-Ch/Game_Recommendation_System)
-                        **ML Engineering · Personalization Systems**
-                     
-                        Developed a content-based and collaborative filtering recommendation system for gaming, deployed via a Python web application — demonstrating applied ML for demand personalization use cases.
-                     
-                        `Python` `Jupyter` `scikit-learn` `Flask` `Collaborative Filtering`
-                     
-                        **Outcomes:**
-                        - End-to-end recommendation pipeline from data to deployment
-                        - - Applicable methodology to product, content, and inventory recommendation
-                          - - Demonstrates ML architecture for business personalization scenarios
-                           
-                            - </td>
-                            <td width="50%" valign="top">
-                     
-                            ### 🔜 More Projects In Progress
-                            Currently building:
-                            - **Operational KPI Monitoring Dashboard** (Power BI)
-                            - - **Retail Demand Forecasting Pipeline** (Python + SQL)
-                              - - **Supply Chain Delay Prediction Model** (ML)
-                               
-                                - *Watch this space — or connect on LinkedIn for updates.*
-                               
-                                - </td>
-                                </tr>
-                                </tr>table>
-                     
-                                ---
-                     
-                                ## GitHub Analytics
-                     
-                                <div align="center">
-                     
-                                <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balasurya-Ch&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-                                <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balasurya-Ch&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-                     
-                                </div>
-                     
-                                <div align="center">
-                     
-                                [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Balasurya-Ch&theme=github-dark-blue&hide_border=true)](https://github.com/Balasurya-Ch)
-                     
-                                </div>
-                     
-                                ---
-                     
-                                ## Domain Coverage
-                     
-                                | Domain | Projects | Key Methods |
-                                |---|---|---|
-                                | Financial Analytics | Credit Risk, Treatment Effect | PSM, Ridge Regression, Churn Modeling |
-                                | Supply Chain | Retail, Transit, Logistics | Pareto, SPC, Cost Optimization, CoG |
-                                | Operations Research | Transit Planning | Queuing Theory, Demand Forecasting |
-                                | Machine Learning | Recommendation, NLP, Classification | Random Forest, Collaborative Filtering, spaCy |
-                                | Business Intelligence | KPI Design, Dashboard Reporting | Power BI, Tableau, Excel |
-                     
-                                ---
-                     
-                                ## Currently
-                     
-                                - 🏢 **Analyst @ Introlligent Inc** — working on operational analytics and business strategy
-                                - - 📊 Building out a **Power BI KPI dashboard portfolio**
-                                  - - 🔍 Deepening SQL skills for large-scale analytical workloads
-                                    - - 📚 Studying advanced time series forecasting and dbt for analytics engineering pipelines
-                                     
-                                      - ---
-                     
-                                      ## Connect
-                     
-                                      <div align="center">
-                     
-                                      | Channel | Link |
-                                      |---|---|
-                                      | 💼 LinkedIn | [linkedin.com/in/balasurya-chandana](https://linkedin.com/in/balasurya-chandana) |
-                                      | 📧 Email | balasuryachandana@gmail.com |
-                                      | 📊 Tableau Public | Add your Tableau Public profile URL here |
-                                      | 📁 Resume | Add your resume/CV link here |
-                     
-                                      *Open to Data Analyst, Business Analyst, Supply Chain Analyst, and Analytics Engineer roles — US-based.*
-                     
-                                      </div>
-                     
-                                      ---
-                     
-                                      <div align="center">
-                                      <sub>Built with rigor. Deployed with purpose. Every project has a business question behind it.</sub>
-                                      </div>
+              - ---
+
+              ## Connect
+
+              | Channel | Link |
+              |---|---|
+              | 💼 LinkedIn | linkedin.com/in/balasurya-chandana |
+              | 📧 Email | balasuryachandana@gmail.com |
+              | 📊 Tableau Public | Add your Tableau Public profile URL here |
+              | 📁 Resume | Add your resume/CV link here |
+
+              *Open to Data Analyst, Business Analyst, Supply Chain Analyst, and Analytics Engineer roles — US-based.*
+
+              ---
+
+              <div align="center">
+              <sub>Built with rigor. Deployed with purpose. Every project has a business question behind it.</sub>
+              </div>
