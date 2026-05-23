@@ -36,76 +36,76 @@ At **Introlligent Inc**, I translate fragmented operational data into structured
 
 ---
 
-        ## Technical Stack
+## Technical Stack
 
-        ### Analytics & Business Intelligence
-        ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-        ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-        ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-        ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+### Analytics & Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 
-        ### Programming & Data
-        ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-        ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-        ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-        ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-        ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+### Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-        ### Machine Learning & Modeling
-        ![Regression](https://img.shields.io/badge/Ridge_Regression-blueviolet?style=flat-square)
-        ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square)
-        ![PSM](https://img.shields.io/badge/Propensity_Score_Matching-8B0000?style=flat-square)
-        ![Forecasting](https://img.shields.io/badge/Demand_Forecasting-FF6B35?style=flat-square)
-        ![NLP](https://img.shields.io/badge/spaCy_NLP-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+### Machine Learning & Modeling
+![Regression](https://img.shields.io/badge/Ridge_Regression-blueviolet?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square)
+![PSM](https://img.shields.io/badge/Propensity_Score_Matching-8B0000?style=flat-square)
+![Forecasting](https://img.shields.io/badge/Demand_Forecasting-FF6B35?style=flat-square)
+![NLP](https://img.shields.io/badge/spaCy_NLP-09A3D5?style=flat-square)
 
-        ### Supply Chain & Operations
-        ![Operations](https://img.shields.io/badge/Operations_Analytics-2C3E50?style=flat-square)
-        ![Supply Chain](https://img.shields.io/badge/Supply_Chain_Optimization-16A085?style=flat-square)
-        ![Forecasting](https://img.shields.io/badge/Capacity_Planning-E74C3C?style=flat-square)
-        ![Queuing](https://img.shields.io/badge/Queuing_Theory-8E44AD?style=flat-square)
+### Supply Chain & Operations
+![Operations](https://img.shields.io/badge/Operations_Analytics-2C3E50?style=flat-square)
+![Supply Chain](https://img.shields.io/badge/Supply_Chain_Optimization-16A085?style=flat-square)
+![Forecasting](https://img.shields.io/badge/Capacity_Planning-E74C3C?style=flat-square)
+![Queuing](https://img.shields.io/badge/Queuing_Theory-8E44AD?style=flat-square)
 
-        ### Tools & Platforms
-        ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-        ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-        ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-        ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-        ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-        ---
+---
 
-        ## Featured Projects
+## Featured Projects
 
-        ### [Credit Risk Intervention & Treatment Effect Analysis](https://github.com/Balasurya-Ch/Finance-and-Credit)
-        `Financial Risk Analytics` `Causal Inference` `Fleetcor`
+### [Credit Risk Intervention & Treatment Effect Analysis](https://github.com/Balasurya-Ch/Finance-and-Credit)
+`Financial Risk Analytics` `Causal Inference` `Fleetcor`
 
-        High-risk commercial accounts at Fleetcor were accumulating credit exposure visible only at write-off. Applied Propensity Score Matching to isolate treatment causation from selection bias, Ridge Regression to quantify the average treatment effect per account, and a Random Forest classifier to predict which treated customers would churn — delivering a defensible, evidence-based case for scaling the intervention program.
+High-risk commercial accounts at Fleetcor were accumulating credit exposure visible only at write-off. Applied Propensity Score Matching to isolate treatment causation from selection bias, Ridge Regression to quantify the average treatment effect per account, and a Random Forest classifier to predict which treated customers would churn — delivering a defensible, evidence-based case for scaling the intervention program.
 
-        `Python` `scikit-learn` `PSM` `Ridge Regression` `Random Forest` `Tableau`
+`Python` `scikit-learn` `PSM` `Ridge Regression` `Random Forest` `Tableau`
 
-        | Outcome | Result |
-        |---|---|
-        | Write-off savings identified | ~$70M |
-        | Avg. treatment effect per account | -$785 |
-        | Churn prediction accuracy | 89% |
+| Outcome | Result |
+|---|---|
+| Write-off savings identified | ~$70M |
+| Avg. treatment effect per account | -$785 |
+| Churn prediction accuracy | 89% |
 
-        ---
+---
 
-        ### [Public Transit Operations Optimization](https://github.com/Balasurya-Ch/Public_Transport_Supply_Chain_Operations)
-        `Operations Analytics` `Supply Chain` `CT Transit`
+### [Public Transit Operations Optimization](https://github.com/Balasurya-Ch/Public_Transport_Supply_Chain_Operations)
+`Operations Analytics` `Supply Chain` `CT Transit`
 
-        CT Transit's New Haven-West Haven corridor was running reactive fleet deployment with no quantitative basis for frequency decisions or hub placement. Modeled optimal fleet frequency using Little's Law, built demand forecasts with confidence intervals for budget stress-testing, and applied Centre-of-Gravity analysis to reposition maintenance hubs — cutting deadhead mileage and response time simultaneously.
+CT Transit's New Haven-West Haven corridor was running reactive fleet deployment with no quantitative basis for frequency decisions or hub placement. Modeled optimal fleet frequency using Little's Law, built demand forecasts with confidence intervals for budget stress-testing, and applied Centre-of-Gravity analysis to reposition maintenance hubs — cutting deadhead mileage and response time simultaneously.
 
-        `Excel` `Queuing Theory` `Demand Forecasting` `Centre of Gravity` `KPI Framework`
+`Excel` `Queuing Theory` `Demand Forecasting` `Centre of Gravity` `KPI Framework`
 
-        | Outcome | Result |
-        |---|---|
-        | Passenger wait time reduction | 25-28% |
-        | Daily ridership gain | 320 to 500 passengers/day |
-        | Annualized route revenue impact | $100K+ |
+| Outcome | Result |
+|---|---|
+| Passenger wait time reduction | 25-28% |
+| Daily ridership gain | 320 to 500 passengers/day |
+| Annualized route revenue impact | $100K+ |
 
-        ---
+---
 
-        ### [Retail Supply Chain Quality & Cost Analytics](https://github.com/Balasurya-Ch/Retail_Supply_Chain_Work)
+### [Retail Supply Chain Quality & Cost Analytics](https://github.com/Balasurya-Ch/Retail_Supply_Chain_Work)
         `Supply Chain Analytics` `Supplier Quality` `IKEA Case Study`
 
         In a multi-country retail supply chain modeled on IKEA's structure, quality failures were tracked in aggregate — obscuring that 20% of suppliers drove 75-80% of defects. Applied Pareto analysis to surface that concentration, nonconformance rate trending to separate systematic from isolated failures, and a total landed cost model to connect quality improvement targets directly to P&L impact.
