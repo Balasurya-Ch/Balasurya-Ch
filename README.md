@@ -4,13 +4,13 @@
 
 ### Business & Data Analyst · Supply Chain Analytics · BI & Forecasting · Operations Strategy
 
-*Translating complex operational data into decisions that reduce cost, improve service, and drive measurable business outcomes.*
+*Turning raw operational data into the decisions that reduce cost, eliminate waste, and move the right number forward.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balasurya-chandana)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balasuryachandana@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balasurya-Ch)
-[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/YOUR_PROFILE_HERE)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](YOUR_RESUME_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balasurya-Ch)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/balasurya.chandana)
+[![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://linkedin.com/in/balasurya-chandana)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Balasurya-Ch&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -20,18 +20,18 @@
 
 ## About
 
-I work at the intersection of data, operations, and business strategy — building analytics systems that answer the questions organizations actually need to act on.
+I build analytics systems that answer the questions organizations actually need to act on — not just dashboards that describe what happened, but models and pipelines that explain why it happened and what to do next.
 
-My background spans **supply chain analytics**, **financial risk modeling**, **demand forecasting**, and **business intelligence dashboard development**. I've applied quantitative methods — from propensity score matching and ridge regression to queuing theory and center-of-gravity optimization — to real operational problems across retail, transit, and financial services.
+My work spans **financial risk analytics** (causal inference on $70M+ in credit exposure), **supply chain operations** (queuing models, Pareto supplier segmentation, facility location optimization), and **machine learning deployment** (NLP pipelines, recommendation engines, classification systems). I've applied these methods to problems in retail, transit, and financial services — always with the same standard: if it doesn't connect to a business decision, it doesn't belong in the analysis.
 
-At **Introlligent Inc**, I've focused on turning fragmented operational data into structured analytical pipelines and KPI frameworks that support both day-to-day decisions and executive reporting.
+At **Introlligent Inc**, I translate fragmented operational data into structured KPI frameworks and analytical pipelines that support both daily decisions and executive-level reporting.
 
-**What I bring to analytics work:**
-- End-to-end ownership: from raw data to business recommendation
-- - Strong SQL and Python skills applied to messy, real-world datasets
-  - - BI development in Power BI and Tableau with an emphasis on operational clarity
-    - - Supply chain and operations domain knowledge across retail, logistics, and transit
-      - - Experience validating causal claims — not just reporting correlations
+**Core competencies:**
+- Causal inference and treatment effect analysis — not just correlation, but evidence
+- - Supply chain cost modeling and supplier quality analytics
+  - - Demand forecasting with confidence intervals for budget planning and capacity decisions
+    - - BI dashboard development in Power BI and Tableau focused on operational clarity
+      - - End-to-end Python pipelines: data cleaning through model deployment
        
         - ---
 
@@ -60,7 +60,7 @@ At **Introlligent Inc**, I've focused on turning fragmented operational data int
         ### Supply Chain & Operations
         ![Operations](https://img.shields.io/badge/Operations_Analytics-2C3E50?style=flat-square)
         ![Supply Chain](https://img.shields.io/badge/Supply_Chain_Optimization-16A085?style=flat-square)
-        ![Forecasting](https://img.shields.io/badge/Demand_Capacity_Planning-E74C3C?style=flat-square)
+        ![Forecasting](https://img.shields.io/badge/Capacity_Planning-E74C3C?style=flat-square)
         ![Queuing](https://img.shields.io/badge/Queuing_Theory-8E44AD?style=flat-square)
 
         ### Tools & Platforms
@@ -75,63 +75,65 @@ At **Introlligent Inc**, I've focused on turning fragmented operational data int
         ## Featured Projects
 
         ### 📉 [Credit Risk Intervention & Treatment Effect Analysis](https://github.com/Balasurya-Ch/Finance-and-Credit)
-        **Fleetcor Account Management · Financial Analytics · Causal Inference**
+        `Financial Risk Analytics` · `Causal Inference` · `Fleetcor`
 
-        Quantified the financial impact of proactive credit interventions across high-risk commercial accounts using propensity score matching, ridge regression, and churn classification — answering whether treatment caused savings or merely correlated with lower-risk accounts.
+        High-risk commercial accounts at Fleetcor were accumulating credit exposure visible only at write-off. I applied Propensity Score Matching to isolate treatment causation from selection bias, Ridge Regression to quantify the average treatment effect per account, and a Random Forest classifier to predict which treated customers would churn. The result was a defensible, evidence-based case for scaling the intervention program.
 
-        `Python` `scikit-learn` `Propensity Score Matching` `Ridge Regression` `Tableau`
+        `Python` `scikit-learn` `PSM` `Ridge Regression` `Random Forest` `Tableau`
 
-        | Outcome | Value |
+        | Outcome | Result |
         |---|---|
-        | Write-off savings identified | ~$70M |
-        | Churn prediction accuracy | 89% |
-        | Avg. treatment effect per account | -$785 |
+        | Write-off savings identified | **~$70M** |
+        | Avg. treatment effect per account | **-$785** |
+        | Churn prediction accuracy | **89%** |
+        | Spend decline (treated vs. untreated high-risk) | **5-7% vs. significantly higher** |
 
         ---
 
         ### 🚌 [Public Transit Operations Optimization](https://github.com/Balasurya-Ch/Public_Transport_Supply_Chain_Operations)
-        **CT Transit · Supply Chain & Operations · Quantitative Methods**
+        `Operations Analytics` · `Supply Chain` · `CT Transit`
 
-        Applied queuing theory (Little's Law), demand forecasting, and center-of-gravity facility location to improve fleet utilization, reduce passenger wait times, and lower operating costs across a regional transit corridor.
+        CT Transit's New Haven–West Haven corridor was running reactive fleet deployment with no quantitative basis for frequency decisions or hub placement. I modeled optimal fleet frequency using Little's Law, built demand forecasts with ±10–15% confidence intervals for budget stress-testing, and applied Center-of-Gravity analysis to reposition maintenance hubs — cutting deadhead mileage and response time simultaneously.
 
-        `Excel` `Operations Analytics` `Queuing Theory` `Demand Forecasting` `Centre of Gravity`
+        `Excel` `Queuing Theory` `Demand Forecasting` `Centre of Gravity` `KPI Framework`
 
-        | Outcome | Value |
+        | Outcome | Result |
         |---|---|
-        | Passenger wait time reduction | 25-28% |
-        | Annualized route revenue impact | $100K+ |
-        | Operating cost reduction (projected) | 10-15% |
+        | Passenger wait time reduction | **25–28%** |
+        | Daily ridership gain | **320 → 500 passengers/day** |
+        | Annualized route revenue impact | **$100K+** |
+        | Operating cost reduction | **10–15%** |
 
         ---
 
         ### 🏭 [Retail Supply Chain Quality & Cost Analytics](https://github.com/Balasurya-Ch/Retail_Supply_Chain_Work)
-        **IKEA Case Study · Global Supply Chain · Supplier Analytics**
+        `Supply Chain Analytics` · `Supplier Quality` · `IKEA Case Study`
 
-        Analyzed supplier defect concentration, logistics damage rates, and fulfillment gaps across a multi-country retail supply chain using Pareto analysis and SPC concepts — identifying the 20% of suppliers driving 75-80% of quality failures.
+        In a multi-country retail supply chain modeled on IKEA's structure, quality failures were being tracked in aggregate — obscuring the fact that 20% of suppliers drove 75–80% of defects. I applied Pareto analysis to surface that concentration, nonconformance rate trending to separate systematic from isolated failures, and a total landed cost model to connect quality improvement targets directly to P&L impact.
 
-        `Excel` `Pareto Analysis` `KPI Design` `SPC` `Cost Modeling`
+        `Excel` `Pareto Analysis` `Nonconformance Rate Analysis` `SPC` `Total Cost Modeling`
 
-        | Outcome | Value |
+        | Outcome | Result |
         |---|---|
-        | Missing parts rate reduction target | 25-30% |
-        | Supply chain cost reduction pathway | 8-12% |
-        | Customer complaint reduction target | ~20% |
+        | Defect concentration identified | **20% of suppliers → 75–80% of failures** |
+        | Missing parts rate reduction target | **25–30%** |
+        | Total supply chain cost reduction pathway | **8–12%** |
 
         ---
 
         ### 🤖 [NLP-Powered Task Intelligence System](https://github.com/Balasurya-Ch/Task-Management-System-ML)
-        **ML Engineering · NLP · Operational Workflow Automation**
+        `ML Engineering` · `NLP` · `Flask Deployment`
 
-        Built a Flask-deployed task management application using spaCy NLP and scikit-learn to classify, prioritize, and surface actionable work items from unstructured free-text inputs — demonstrating a production-capable triage pipeline.
+        Operational teams lose time to manual triage — reading, classifying, and routing unstructured task descriptions before any work begins. I built a spaCy NLP pipeline feeding a scikit-learn classifier, deployed via Flask, that takes free-text inputs and returns structured task category and priority labels in real time. The architecture mirrors enterprise service-desk triage systems.
 
-        `Python` `spaCy` `Flask` `scikit-learn` `Jupyter`
+        `Python` `spaCy` `scikit-learn` `Flask` `Jupyter`
 
         ---
 
         ### 🎮 [Collaborative Filtering Recommendation Engine](https://github.com/Balasurya-Ch/Game_Recommendation_System)
-        **ML Engineering · Personalization Systems**
+        `ML Engineering` · `Personalization` · `Python Deployment`
 
-        Developed a hybrid recommendation engine using collaborative filtering and content-based methods, deployed via a Python web application. Methodology is directly applicable to product recommendation and demand personalization in business contexts.
+        Built a hybrid recommendation engine — collaborative filtering for preference-based suggestions, content-based fallback for cold-start coverage — deployed as a Flask web application. The same user-item matrix architecture underpins product recommendation, content personalization, and demand-driven assortment planning in production systems.
 
         `Python` `scikit-learn` `Flask` `Jupyter` `Collaborative Filtering`
 
@@ -150,38 +152,50 @@ At **Introlligent Inc**, I've focused on turning fragmented operational data int
 
         ## Domain Coverage
 
-        | Domain | Projects | Key Methods |
+        | Domain | Projects | Key Methods Applied |
         |---|---|---|
-        | Financial Analytics | Credit Risk, Treatment Effect | PSM, Ridge Regression, Churn Modeling |
-        | Supply Chain | Retail, Transit, Logistics | Pareto, SPC, Cost Optimization, CoG |
-        | Operations Research | Transit Planning | Queuing Theory, Demand Forecasting |
-        | Machine Learning | Recommendation, NLP, Classification | Random Forest, Collaborative Filtering, spaCy |
-        | Business Intelligence | KPI Design, Dashboard Reporting | Power BI, Tableau, Excel |
+        | Financial Analytics | Credit Risk, Treatment Effect | Propensity Score Matching, Ridge Regression, Churn Classification |
+        | Supply Chain | Global Retail, Public Transit | Pareto Analysis, SPC, Total Cost Modeling, Centre of Gravity |
+        | Operations Research | Transit Corridor Planning | Queuing Theory (Little's Law), Demand Forecasting, KPI Design |
+        | Machine Learning | Recommendation, NLP, Classification | Collaborative Filtering, spaCy, Random Forest |
+        | Business Intelligence | KPI Frameworks, Dashboards | Power BI, Tableau, Excel |
 
         ---
 
         ## Currently
 
-        - 🏢 **Analyst @ Introlligent Inc** — working on operational analytics and business strategy
-        - - 📊 Building out a Power BI KPI dashboard portfolio
-          - - 🔍 Deepening SQL skills for large-scale analytical workloads
-            - - 📚 Studying advanced time series forecasting and dbt for analytics engineering pipelines
+        - 🏢 **Analyst @ Introlligent Inc** — operational analytics and business strategy
+        - - 📊 Building a production-grade **Power BI KPI monitoring dashboard** for operations reporting
+          - - 🔍 Expanding SQL depth for large-scale analytical workloads and data warehouse querying
+            - - 📚 Studying **dbt** for analytics engineering pipelines and advanced time series forecasting
              
               - ---
 
+              ## Open To
+
+              *Actively seeking roles in the US — open to full-time, contract, and hybrid engagements.*
+
+              | Role | Why It Fits |
+              |---|---|
+              | Data Analyst | End-to-end Python/SQL pipelines, KPI design, business translation |
+              | Business Analyst | Requirements definition, process analytics, stakeholder reporting |
+              | Supply Chain Analyst | Forecasting, supplier analytics, cost modeling, operations optimization |
+              | Analytics Engineer | Pipeline development, BI tooling, data modeling |
+              | BI Analyst | Power BI / Tableau dashboard design, operational reporting |
+
+              ---
+
               ## Connect
 
-              | Channel | Link |
+              | | |
               |---|---|
-              | 💼 LinkedIn | linkedin.com/in/balasurya-chandana |
-              | 📧 Email | balasuryachandana@gmail.com |
-              | 📊 Tableau Public | Add your Tableau Public profile URL here |
-              | 📁 Resume | Add your resume/CV link here |
-
-              *Open to Data Analyst, Business Analyst, Supply Chain Analyst, and Analytics Engineer roles — US-based.*
+              | 💼 LinkedIn | [linkedin.com/in/balasurya-chandana](https://linkedin.com/in/balasurya-chandana) |
+              | 📧 Email | [balasuryachandana@gmail.com](mailto:balasuryachandana@gmail.com) |
+              | 📊 Tableau Public | [public.tableau.com — Balasurya Chandana](https://public.tableau.com/app/profile/balasurya.chandana) |
+              | 📁 Resume | [View on LinkedIn](https://linkedin.com/in/balasurya-chandana) |
 
               ---
 
               <div align="center">
-              <sub>Built with rigor. Deployed with purpose. Every project has a business question behind it.</sub>
+              <sub>Every project in this portfolio starts with a business question and ends with a number that matters.</sub>
               </div>
