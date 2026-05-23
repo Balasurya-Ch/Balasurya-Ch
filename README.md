@@ -26,14 +26,15 @@ My work spans **financial risk analytics** (causal inference on $70M+ in credit 
 
 At **Introlligent Inc**, I translate fragmented operational data into structured KPI frameworks and analytical pipelines that support both daily decisions and executive-level reporting.
 
-**Core competencies:**
-- Causal inference and treatment effect analysis — not just correlation, but evidence
-- - Supply chain cost modeling and supplier quality analytics
-  - - Demand forecasting with confidence intervals for budget planning and capacity decisions
-    - - BI dashboard development in Power BI and Tableau focused on operational clarity
-      - - End-to-end Python pipelines: data cleaning through model deployment
-       
-        - ---
+**Core competencies**
+
+| | |
+|---|---|
+| Analytics | Causal inference & treatment effect · Demand forecasting · KPI framework design |
+| Supply Chain | Cost modeling · Supplier quality analytics · Operations optimization |
+| Engineering | Python/SQL pipelines · Power BI / Tableau dashboards · ML deployment |
+
+---
 
         ## Technical Stack
 
