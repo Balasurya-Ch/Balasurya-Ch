@@ -28,14 +28,13 @@ At **Introlligent Inc**, I translate fragmented operational data into structured
 
 **Core competencies:**
 - Causal inference and treatment effect analysis — not just correlation, but evidence
-- - Supply chain cost modeling and supplier quality analytics
-  - - Demand forecasting with confidence intervals for budget planning and capacity decisions
-    - - BI dashboard development in Power BI and Tableau focused on operational clarity
-      - - End-to-end Python pipelines: data cleaning through model deployment
-       
-        - ---
+- Supply chain cost modeling and supplier quality analytics
+- Demand forecasting with confidence intervals for budget planning and capacity decisions
+- BI dashboard development in Power BI and Tableau focused on operational clarity
+- End-to-end Python pipelines: data cleaning through model deployment
+---
 
-        ## Technical Stack
+## Technical Stack
 
         ### Analytics & Business Intelligence
         ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
