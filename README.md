@@ -28,13 +28,14 @@ At **Introlligent Inc**, I translate fragmented operational data into structured
 
 **Core competencies:**
 - Causal inference and treatment effect analysis — not just correlation, but evidence
-- Supply chain cost modeling and supplier quality analytics
-- Demand forecasting with confidence intervals for budget planning and capacity decisions
-- BI dashboard development in Power BI and Tableau focused on operational clarity
-- End-to-end Python pipelines: data cleaning through model deployment
----
+- - Supply chain cost modeling and supplier quality analytics
+  - - Demand forecasting with confidence intervals for budget planning and capacity decisions
+    - - BI dashboard development in Power BI and Tableau focused on operational clarity
+      - - End-to-end Python pipelines: data cleaning through model deployment
+       
+        - ---
 
-## Technical Stack
+        ## Technical Stack
 
         ### Analytics & Business Intelligence
         ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -73,66 +74,64 @@ At **Introlligent Inc**, I translate fragmented operational data into structured
 
         ## Featured Projects
 
-        ### 📉 [Credit Risk Intervention & Treatment Effect Analysis](https://github.com/Balasurya-Ch/Finance-and-Credit)
-        `Financial Risk Analytics` · `Causal Inference` · `Fleetcor`
+        ### [Credit Risk Intervention & Treatment Effect Analysis](https://github.com/Balasurya-Ch/Finance-and-Credit)
+        `Financial Risk Analytics` `Causal Inference` `Fleetcor`
 
-        High-risk commercial accounts at Fleetcor were accumulating credit exposure visible only at write-off. I applied Propensity Score Matching to isolate treatment causation from selection bias, Ridge Regression to quantify the average treatment effect per account, and a Random Forest classifier to predict which treated customers would churn. The result was a defensible, evidence-based case for scaling the intervention program.
+        High-risk commercial accounts at Fleetcor were accumulating credit exposure visible only at write-off. Applied Propensity Score Matching to isolate treatment causation from selection bias, Ridge Regression to quantify the average treatment effect per account, and a Random Forest classifier to predict which treated customers would churn — delivering a defensible, evidence-based case for scaling the intervention program.
 
         `Python` `scikit-learn` `PSM` `Ridge Regression` `Random Forest` `Tableau`
 
         | Outcome | Result |
         |---|---|
-        | Write-off savings identified | **~$70M** |
-        | Avg. treatment effect per account | **-$785** |
-        | Churn prediction accuracy | **89%** |
-        | Spend decline (treated vs. untreated high-risk) | **5-7% vs. significantly higher** |
+        | Write-off savings identified | ~$70M |
+        | Avg. treatment effect per account | -$785 |
+        | Churn prediction accuracy | 89% |
 
         ---
 
-        ### 🚌 [Public Transit Operations Optimization](https://github.com/Balasurya-Ch/Public_Transport_Supply_Chain_Operations)
-        `Operations Analytics` · `Supply Chain` · `CT Transit`
+        ### [Public Transit Operations Optimization](https://github.com/Balasurya-Ch/Public_Transport_Supply_Chain_Operations)
+        `Operations Analytics` `Supply Chain` `CT Transit`
 
-        CT Transit's New Haven–West Haven corridor was running reactive fleet deployment with no quantitative basis for frequency decisions or hub placement. I modeled optimal fleet frequency using Little's Law, built demand forecasts with ±10–15% confidence intervals for budget stress-testing, and applied Center-of-Gravity analysis to reposition maintenance hubs — cutting deadhead mileage and response time simultaneously.
+        CT Transit's New Haven-West Haven corridor was running reactive fleet deployment with no quantitative basis for frequency decisions or hub placement. Modeled optimal fleet frequency using Little's Law, built demand forecasts with confidence intervals for budget stress-testing, and applied Centre-of-Gravity analysis to reposition maintenance hubs — cutting deadhead mileage and response time simultaneously.
 
         `Excel` `Queuing Theory` `Demand Forecasting` `Centre of Gravity` `KPI Framework`
 
         | Outcome | Result |
         |---|---|
-        | Passenger wait time reduction | **25–28%** |
-        | Daily ridership gain | **320 → 500 passengers/day** |
-        | Annualized route revenue impact | **$100K+** |
-        | Operating cost reduction | **10–15%** |
+        | Passenger wait time reduction | 25-28% |
+        | Daily ridership gain | 320 to 500 passengers/day |
+        | Annualized route revenue impact | $100K+ |
 
         ---
 
-        ### 🏭 [Retail Supply Chain Quality & Cost Analytics](https://github.com/Balasurya-Ch/Retail_Supply_Chain_Work)
-        `Supply Chain Analytics` · `Supplier Quality` · `IKEA Case Study`
+        ### [Retail Supply Chain Quality & Cost Analytics](https://github.com/Balasurya-Ch/Retail_Supply_Chain_Work)
+        `Supply Chain Analytics` `Supplier Quality` `IKEA Case Study`
 
-        In a multi-country retail supply chain modeled on IKEA's structure, quality failures were being tracked in aggregate — obscuring the fact that 20% of suppliers drove 75–80% of defects. I applied Pareto analysis to surface that concentration, nonconformance rate trending to separate systematic from isolated failures, and a total landed cost model to connect quality improvement targets directly to P&L impact.
+        In a multi-country retail supply chain modeled on IKEA's structure, quality failures were tracked in aggregate — obscuring that 20% of suppliers drove 75-80% of defects. Applied Pareto analysis to surface that concentration, nonconformance rate trending to separate systematic from isolated failures, and a total landed cost model to connect quality improvement targets directly to P&L impact.
 
         `Excel` `Pareto Analysis` `Nonconformance Rate Analysis` `SPC` `Total Cost Modeling`
 
         | Outcome | Result |
         |---|---|
-        | Defect concentration identified | **20% of suppliers → 75–80% of failures** |
-        | Missing parts rate reduction target | **25–30%** |
-        | Total supply chain cost reduction pathway | **8–12%** |
+        | Defect concentration identified | 20% of suppliers driving 75-80% of failures |
+        | Missing parts rate reduction target | 25-30% |
+        | Total supply chain cost reduction pathway | 8-12% |
 
         ---
 
-        ### 🤖 [NLP-Powered Task Intelligence System](https://github.com/Balasurya-Ch/Task-Management-System-ML)
-        `ML Engineering` · `NLP` · `Flask Deployment`
+        ### [NLP-Powered Task Intelligence System](https://github.com/Balasurya-Ch/Task-Management-System-ML)
+        `ML Engineering` `NLP` `Flask Deployment`
 
-        Operational teams lose time to manual triage — reading, classifying, and routing unstructured task descriptions before any work begins. I built a spaCy NLP pipeline feeding a scikit-learn classifier, deployed via Flask, that takes free-text inputs and returns structured task category and priority labels in real time. The architecture mirrors enterprise service-desk triage systems.
+        Built a spaCy NLP pipeline feeding a scikit-learn classifier, deployed via Flask, that takes free-text task descriptions and returns structured category and priority labels in real time. Architecture mirrors enterprise service-desk triage systems — modular, extensible, and production-capable.
 
         `Python` `spaCy` `scikit-learn` `Flask` `Jupyter`
 
         ---
 
-        ### 🎮 [Collaborative Filtering Recommendation Engine](https://github.com/Balasurya-Ch/Game_Recommendation_System)
-        `ML Engineering` · `Personalization` · `Python Deployment`
+        ### [Collaborative Filtering Recommendation Engine](https://github.com/Balasurya-Ch/Game_Recommendation_System)
+        `ML Engineering` `Personalization` `Python Deployment`
 
-        Built a hybrid recommendation engine — collaborative filtering for preference-based suggestions, content-based fallback for cold-start coverage — deployed as a Flask web application. The same user-item matrix architecture underpins product recommendation, content personalization, and demand-driven assortment planning in production systems.
+        Built a hybrid recommendation engine — collaborative filtering for preference-based suggestions, content-based fallback for cold-start coverage — deployed as a Flask web application. The user-item matrix architecture is directly transferable to product recommendation, assortment optimization, and demand personalization.
 
         `Python` `scikit-learn` `Flask` `Jupyter` `Collaborative Filtering`
 
@@ -163,10 +162,10 @@ At **Introlligent Inc**, I translate fragmented operational data into structured
 
         ## Currently
 
-        - 🏢 **Analyst @ Introlligent Inc** — operational analytics and business strategy
-        - - 📊 Building a production-grade **Power BI KPI monitoring dashboard** for operations reporting
-          - - 🔍 Expanding SQL depth for large-scale analytical workloads and data warehouse querying
-            - - 📚 Studying **dbt** for analytics engineering pipelines and advanced time series forecasting
+        - Analyst @ Introlligent Inc — operational analytics and business strategy
+        - - Building a production-grade Power BI KPI monitoring dashboard for operations reporting
+          - - Expanding SQL depth for large-scale analytical workloads and data warehouse querying
+            - - Studying dbt for analytics engineering pipelines and advanced time series forecasting
              
               - ---
 
@@ -188,10 +187,10 @@ At **Introlligent Inc**, I translate fragmented operational data into structured
 
               | | |
               |---|---|
-              | 💼 LinkedIn | [linkedin.com/in/balasurya-chandana](https://linkedin.com/in/balasurya-chandana) |
-              | 📧 Email | [balasuryachandana@gmail.com](mailto:balasuryachandana@gmail.com) |
-              | 📊 Tableau Public | [public.tableau.com — Balasurya Chandana](https://public.tableau.com/app/profile/balasurya.chandana) |
-              | 📁 Resume | [View on LinkedIn](https://linkedin.com/in/balasurya-chandana) |
+              | LinkedIn | linkedin.com/in/balasurya-chandana |
+              | Email | balasuryachandana@gmail.com |
+              | Tableau Public | public.tableau.com/app/profile/balasurya.chandana |
+              | Resume | linkedin.com/in/balasurya-chandana |
 
               ---
 
