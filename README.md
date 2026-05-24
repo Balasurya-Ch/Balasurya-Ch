@@ -9,7 +9,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/balasurya.chandana)
 [![Resume](https://img.shields.io/badge/Open%20to%20Work-US%20Based-2ea44f?style=flat-square)]()
 
-**SQL · Python · Power BI · Tableau · Azure AutoML · SAP/Tally ERP · scikit-learn · DMAIC**
+**SQL · Python · Power BI · Tableau · Azure AutoML · SAP/Tally ERP · scikit-learn · Oracle SCM · DMAIC**
 
 ---
 
