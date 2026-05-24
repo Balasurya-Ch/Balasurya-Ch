@@ -9,7 +9,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/balasurya.chandana)
 [![Resume](https://img.shields.io/badge/Open%20to%20Work-US%20Based-2ea44f?style=flat-square)]()
 
-**SQL · Python · Power BI · Tableau · Azure AutoML · SAP/Tally ERP · scikit-learn · dbt**
+**SQL · Python · Power BI · Tableau · Azure AutoML · SAP/Tally ERP · scikit-learn · DMAIC**
 
 ---
 
@@ -21,34 +21,34 @@
 
 ## Who I Am
 
-I’m a Supply Chain and Data Analyst with 3+ years of experience across operations, inventory, and financial risk analytics. My work spans two very different environments — a small-to-mid operations firm in Hyderabad where I rebuilt inventory workflows from scratch, and a US-based tech company where I own the analytics function. In both, the job was the same: take messy operational data and turn it into decisions that save money or prevent a problem before it lands.
+I’m a Supply Chain and Data Analyst with 2+ years of experience across operations, inventory, and financial risk analytics. My work spans two very different environments, a small-to-mid operations firm in Hyderabad where I rebuilt Cash and inventory workflows from scratch, and a US-based tech company where I work on the analytics function. In both, the job was the same: take messy operational data and turn it into decisions that save money or prevent a problem before it lands.
 
-I hold an M.S. in Business Analytics & Global Supply Chain Management from University of New Haven (GPA 3.94, Beta Gamma Sigma), and my capstone work produced a production-grade predictive model that flagged $70M+ in credit write-off exposure. That’s not a classroom exercise — that’s what happens when you apply causal inference correctly to a real financial dataset.
+I hold an M.S. in Business Analytics & Global Supply Chain Management from University of New Haven (GPA 3.94, Beta Gamma Sigma Honoree), and my capstone work produced a production-grade predictive model that flagged $70M+ in credit write-off exposure. That’s not a classroom exercise, that’s what happens when you apply causal inference correctly to a real financial dataset.
 
-Right now I’m based in the US, actively looking for analyst roles in supply chain, data, or business analytics. I don’t just build dashboards — I find the number that moves the decision.
+Right now I’m based in the US, actively looking for analyst roles in supply chain, data, or business analytics. I don’t just build dashboards, I find the number that moves the decision.
 
 ---
 
 ## Experience
 
-### Business Analyst / Supply Chain Coordinator — Introlligent Inc.
+### Business Analyst — Apple Inc (Introlligent Inc).
 **Jul 2025 – Present | USA**
 
-- Built executive KPI dashboards in Power BI and Excel tracking order flow, on-time delivery, supplier performance, and supply continuity — cut decision latency by 30% and surfaced exception visibility across 4 critical operational metrics
+- Built executive KPI dashboards in Power BI and Excel tracking order flow, on-time delivery, supplier performance, and supply continuity, cut decision latency by 30% and surfaced exception visibility across 4 critical operational metrics
 - Led cross-functional analytics initiatives across 6+ stakeholder groups (Supply Chain, Operations, Compliance, Engineering), delivering prescriptive action plans that improved issue resolution cycle time by ~25%
-- Ran structured root-cause analyses (5-Why, Pareto, fishbone) on procurement bottlenecks — standardized fixes reduced repeat escalations by 20%
+- Ran structured root-cause analyses (5-Why, Pareto, fishbone) on procurement bottlenecks, standardized fixes reduced repeat escalations by 20%
 - Built demand forecasting insights from CRM pipelines to surface supply risks 2–3 weeks ahead of potential shortages
 - Ran scenario and sensitivity analyses on supplier delivery trends and demand adoption curves to support proactive supply plan adjustments
 
 ### Business Associate — Operations & Inventory | P&B Pvt Limited / Ravi Kanth Tata & Co.
 **Jan 2022 – Feb 2023 | Hyderabad, India**
 
-- Redesigned inventory allocation across SKUs using SQL and Tally ERP — reduced stockout risk by 60% and directly improved order fulfillment rates
-- Built ML-powered anomaly detection models to flag supply discrepancies and logistics deviations — improved issue identification accuracy by 35%, cut mean time-to-corrective-action
-- Engineered statistical demand forecasting models (time-series, seasonality decomposition, MRP-aligned) — reduced excess inventory carrying costs by ~15%
+- Redesigned inventory allocation across SKUs using SQL and Tally ERP, reduced stockout risk by 60% and directly improved order fulfillment rates
+- Built anomaly detection models to flag supply discrepancies and logistics deviations, improved issue identification accuracy by 35%, cut mean time-to-corrective-action
+- Engineered statistical demand forecasting models (time-series, seasonality decomposition, MRP-aligned), reduced excess inventory carrying costs by ~15%
 - Automated supply reporting pipelines in SQL and Python, eliminating 100% of manual Excel reporting
-- Built supplier performance scorecards and total-cost-of-supply analyses — identified sourcing inefficiencies, reduced procurement variances by ~10%
-- Standardized procurement workflows (PR to delivery receipt) across 3 sites — cut cycle times by 18%
+- Built supplier performance scorecards and total-cost-of-supply analyses, identified sourcing inefficiencies, reduced procurement variances by ~10%
+- Standardized procurement workflows (PR to delivery receipt) across 3 sites, cut cycle times by 18%
 
 ---
 
@@ -57,7 +57,7 @@ Right now I’m based in the US, actively looking for analyst roles in supply ch
 ### Credit Risk Intervention & Treatment Effect Analysis — Fleetcor [$70M+]
 `Python` `Propensity Score Matching` `Ridge Regression` `Random Forest` `Tableau` `Azure AutoML` `pandas` `scikit-learn`
 
-The credit team at Fleetcor was applying proactive treatments to high-risk accounts but had no evidence the interventions were actually working — or just coinciding with accounts that would have recovered anyway. Selection bias made a straight comparison useless.
+The credit team at Fleetcor was applying proactive treatments to high-risk accounts but had no evidence the interventions were actually working or just coinciding with accounts that would have recovered anyway. Selection bias made a straight comparison useless.
 
 I applied Propensity Score Matching to build a valid control group, then used Ridge Regression to isolate the Average Treatment Effect (−$785/account). A Random Forest classifier (precision-recall optimized) scored which treated accounts would still churn. Azure AutoML validated the 89% model accuracy. A Tableau executive dashboard made the findings actionable without re-running code.
 
@@ -68,16 +68,16 @@ I applied Propensity Score Matching to build a valid control group, then used Ri
 | Churn prediction accuracy | 89% |
 | Post-treatment spend decline | 5–7% vs. much higher for untreated group |
 
-The key insight wasn’t just the $70M — it was that treated customers only dropped 5–7% in spend. Early intervention preserved the customer relationship. That’s what made the business case for scaling.
+The key insight wasn’t just the $70M, it was that treated customers only dropped 5–7% in spend. Early intervention preserved the customer relationship. That’s what made the business case for scaling.
 
 [→ Finance-and-Credit](https://github.com/Balasurya-Ch/Finance-and-Credit)
 
 ---
 
-### Public Transit Operations Optimization — CT Transit New Haven Corridor
+### Public Transit Operations Optimization 
 `Excel` `Queuing Theory (Little’s Law)` `Demand Forecasting` `Centre of Gravity` `KPI Framework Design`
 
-CT Transit’s New Haven–West Haven corridor had no quantitative basis for fleet sizing or hub placement. Schedules were static. Maintenance crews were positioned by convention, not data.
+CT Transit’s corridor had no quantitative basis for fleet sizing or hub placement. Schedules were static. Maintenance crews were positioned by convention, not data.
 
 I built 3-scenario demand forecasts (±10–15% confidence intervals) so management had a range to stress-test, not a single number to trust blindly. Applied Little’s Law to model exactly how much wait time each additional bus removes — identified diminishing returns at 8 buses, which is the number that went into the recommendation. Centre of Gravity analysis on breakdown incident data repositioned maintenance hubs, cutting deadhead mileage by 12%.
 
@@ -94,9 +94,9 @@ I built 3-scenario demand forecasts (±10–15% confidence intervals) so managem
 ---### Retail Supply Chain Quality & Cost Analytics — IKEA Case Study
 `Excel` `Pareto Analysis` `Nonconformance Rate Trending` `SPC / DMAIC` `Total Cost Modeling` `KPI Design`
 
-A global multi-country supply chain was tracking quality failures as company-wide averages — which made the numbers look fine at the top while hiding that 20% of suppliers were driving 75–80% of all defects. Managing the average meant ignoring the outliers doing the damage.
+A global multi-country supply chain was tracking quality failures as company-wide averages, which made the numbers look fine at the top while hiding that 20% of suppliers were driving 75–80% of all defects. Managing the average meant ignoring the outliers doing the damage.
 
-I ran Pareto segmentation to surface that concentration, then nonconformance rate trending per supplier and route to separate chronic failures from one-off incidents. A total landed cost model translated quality targets into P&L impact — so the conversation shifted from “we need a supplier program” to “here are the 12 suppliers we fix first, and here’s the dollar value.” Applied SPC and DMAIC framework throughout.
+I ran Pareto segmentation to surface that concentration, then nonconformance rate trending per supplier and route to separate chronic failures from one-off incidents. A total landed cost model translated quality targets into P&L impact, so the conversation shifted from “we need a supplier program” to “here are the 12 suppliers we fix first, and here’s the dollar value.” Applied SPC and DMAIC framework throughout.
 
 | KPI | Improvement Target |
 |---|---|
@@ -115,9 +115,9 @@ I ran Pareto segmentation to surface that concentration, then nonconformance rat
 
 Operational teams waste time on the lowest-value part of their workflow: reading unstructured text, categorizing it, and assigning priority. I built a system that does this automatically.
 
-The spaCy pipeline handles tokenization, lemmatization, NER, and stop-word filtering. A scikit-learn classifier (precision-recall optimized across all classes, not just accuracy) takes the normalized input and returns a task category and priority tier. The whole thing runs in a Flask web app — not a Jupyter notebook, an actual browser interface. The NLP layer and classifier are independently swappable, which is what makes it extensible rather than a one-off demo.
+The spaCy pipeline handles tokenization, lemmatization, NER, and stop-word filtering. A scikit-learn classifier (precision-recall optimized across all classes, not just accuracy) takes the normalized input and returns a task category and priority tier. The whole thing runs in a Flask web app, not a Jupyter notebook, an actual browser interface. The NLP layer and classifier are independently swappable, which is what makes it extensible rather than a one-off demo.
 
-This architecture is identical to what drives enterprise service-desk triage, CRM ticket routing, and operations workflow classification — just at smaller scale.
+This architecture is identical to what drives enterprise service-desk triage, CRM ticket routing, and operations workflow classification, just at smaller scale.
 
 [→ Task-Management-System-ML](https://github.com/Balasurya-Ch/Task-Management-System-ML)
 
@@ -128,7 +128,7 @@ This architecture is identical to what drives enterprise service-desk triage, CR
 
 Built a hybrid recommendation system: collaborative filtering (user-item preference similarity) as the primary engine, content-based filtering (item attribute cosine similarity) as the cold-start fallback. Deployed on Flask.
 
-The design decision that mattered was doing sparsity analysis during EDA first — that’s what revealed the user-item matrix was too sparse for pure collaborative filtering and made the hybrid approach the right call, not just a safe one. The domain is games, but the user-item matrix architecture transfers directly to product recommendation, demand-driven assortment, and supplier matching.
+The design decision that mattered was doing sparsity analysis during EDA first, that’s what revealed the user-item matrix was too sparse for pure collaborative filtering and made the hybrid approach the right call, not just a safe one. The domain is games, but the user-item matrix architecture transfers directly to product recommendation, demand-driven assortment, and supplier matching.
 
 [→ Game_Recommendation_System](https://github.com/Balasurya-Ch/Game_Recommendation_System)
 
@@ -181,7 +181,8 @@ DataCamp: SQL, Python, R · Azure AI Essentials · LinkedIn Learning: Excel & Bu
 
 ## Open To
 
-*Actively seeking US-based roles — full-time, contract, or hybrid*
+*Currently in USA, Open to relocation*
+*Actively seeking roles — full-time, contract, or hybrid*
 
 | Role | Fit |
 |---|---|
@@ -204,5 +205,5 @@ DataCamp: SQL, Python, R · Azure AI Essentials · LinkedIn Learning: Excel & Bu
 ---
 
 <div align="center">
-<sub><i>3+ years. Two countries. Five projects. One standard: does the number move a decision?</i></sub>
+<sub><i>2+ years. Two countries. Five+ projects. One standard: does the number move a decision?</i></sub>
 </div>
