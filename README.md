@@ -21,11 +21,11 @@
 
 ## Who I Am
 
-I’m a Supply Chain and Data Analyst with 2+ years of experience across operations, inventory, and financial risk analytics. My work spans two very different environments, a small-to-mid operations firm in Hyderabad where I rebuilt Cash and inventory workflows from scratch, and a US-based tech company where I work on the analytics function. In both, the job was the same: take messy operational data and turn it into decisions that save money or prevent a problem before it lands.
+I’m a Supply Chain and Data Analyst with ~3 years of experience across operations, inventory, and financial risk analytics. My work spans two very different environments: a small-to-mid-sized operations firm in Hyderabad, where I rebuilt Cash and inventory workflows from scratch, and a US-based tech company, where I work in the analytics function. In both cases, the job was the same: take messy operational data and turn it into decisions that save money or prevent problems before they land.
 
-I hold an M.S. in Business Analytics & Global Supply Chain Management from University of New Haven (GPA 3.94, Beta Gamma Sigma Honoree), and my capstone work produced a production-grade predictive model that flagged $70M+ in credit write-off exposure. That’s not a classroom exercise, that’s what happens when you apply causal inference correctly to a real financial dataset.
+I hold an M.S. in Business Analytics & Global Supply Chain Management from the University of New Haven (GPA 3.94, Beta Gamma Sigma Honoree), and my capstone work produced a production-grade predictive model that flagged $70M+ in credit write-off exposure. That’s not a classroom exercise; that’s what happens when you apply causal inference correctly to a real financial dataset.
 
-Right now I’m based in the US, actively looking for analyst roles in supply chain, data, or business analytics. I don’t just build dashboards, I find the number that moves the decision.
+Right now I’m based in the US, actively looking for analyst roles in supply chain, data, or business analytics. I don’t just build dashboards; I find the number that moves the decision.
 
 ---
 
@@ -34,9 +34,9 @@ Right now I’m based in the US, actively looking for analyst roles in supply ch
 ### Business Analyst — Apple Inc (Introlligent Inc).
 **Jul 2025 – Present | USA**
 
-- Built executive KPI dashboards in Power BI and Excel tracking order flow, on-time delivery, supplier performance, and supply continuity, cut decision latency by 30% and surfaced exception visibility across 4 critical operational metrics
+- Built executive KPI dashboards in Power BI and Excel tracking order flow, on-time delivery, supplier performance, and supply continuity; cut decision latency by 30% and surfaced exception visibility across 4 critical operational metrics
 - Led cross-functional analytics initiatives across 6+ stakeholder groups (Supply Chain, Operations, Compliance, Engineering), delivering prescriptive action plans that improved issue resolution cycle time by ~25%
-- Ran structured root-cause analyses (5-Why, Pareto, fishbone) on procurement bottlenecks, standardized fixes reduced repeat escalations by 20%
+- Ran structured root-cause analyses (5-Why, Pareto, fishbone) on procurement bottlenecks; standardized fixes reduced repeat escalations by 20%
 - Built demand forecasting insights from CRM pipelines to surface supply risks 2–3 weeks ahead of potential shortages
 - Ran scenario and sensitivity analyses on supplier delivery trends and demand adoption curves to support proactive supply plan adjustments
 
@@ -68,7 +68,7 @@ I applied Propensity Score Matching to build a valid control group, then used Ri
 | Churn prediction accuracy | 89% |
 | Post-treatment spend decline | 5–7% vs. much higher for untreated group |
 
-The key insight wasn’t just the $70M, it was that treated customers only dropped 5–7% in spend. Early intervention preserved the customer relationship. That’s what made the business case for scaling.
+The key insight wasn’t just the $70M; it was that treated customers only dropped 5–7% in spend. Early intervention preserved the customer relationship. That’s what made the business case for scaling.
 
 [→ Finance-and-Credit](https://github.com/Balasurya-Ch/Finance-and-Credit)
 
