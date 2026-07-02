@@ -31,7 +31,7 @@ Right now I’m based in the US, actively looking for analyst roles in supply ch
 
 ## Experience
 
-### Business Analyst — Apple Inc (Introlligent Inc).
+### Analyst Supply Chain — Mere Inc (Introlligent Inc).
 **Jul 2025 – Present | USA**
 
 - Built executive KPI dashboards in Power BI and Excel tracking order flow, on-time delivery, supplier performance, and supply continuity; cut decision latency by 30% and surfaced exception visibility across 4 critical operational metrics
@@ -40,7 +40,7 @@ Right now I’m based in the US, actively looking for analyst roles in supply ch
 - Built demand forecasting insights from CRM pipelines to surface supply risks 2–3 weeks ahead of potential shortages
 - Ran scenario and sensitivity analyses on supplier delivery trends and demand adoption curves to support proactive supply plan adjustments
 
-### Business Associate — Operations & Inventory | P&B Pvt Limited / Ravi Kanth Tata & Co.
+### Business Associate — Operations & Inventory | P&B Pvt Limited / R. Tata & Co.
 **Jan 2022 – Feb 2023 | Hyderabad, India**
 
 - Redesigned inventory allocation across SKUs using SQL and Tally ERP, reduced stockout risk by 60% and directly improved order fulfillment rates
