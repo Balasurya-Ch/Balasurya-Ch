@@ -21,37 +21,12 @@
 
 ## Who I Am
 
-I’m a Supply Chain and Data Analyst with ~3 years of experience across operations, inventory, and financial risk analytics. My work spans two very different environments: a small-to-mid-sized operations firm in Hyderabad, where I rebuilt Cash and inventory workflows from scratch, and a US-based tech company, where I work in the analytics function. In both cases, the job was the same: take messy operational data and turn it into decisions that save money or prevent problems before they land.
-
+I’m a Supply Chain and Data Analyst with experience across Supply Chain. 
 I hold an M.S. in Business Analytics & Global Supply Chain Management from the University of New Haven (GPA 3.94, Beta Gamma Sigma Honoree), and my capstone work produced a production-grade predictive model that flagged $70M+ in credit write-off exposure. That’s not a classroom exercise; that’s what happens when you apply causal inference correctly to a real financial dataset.
 
 Right now I’m based in the US, actively looking for analyst roles in supply chain, data, or business analytics. I don’t just build dashboards; I find the number that moves the decision.
 
 ---
-
-## Experience
-
-### Analyst Supply Chain — Mere Inc (Introlligent Inc).
-**Jul 2025 – Present | USA**
-
-- Built executive KPI dashboards in Power BI and Excel tracking order flow, on-time delivery, supplier performance, and supply continuity; cut decision latency by 30% and surfaced exception visibility across 4 critical operational metrics
-- Led cross-functional analytics initiatives across 6+ stakeholder groups (Supply Chain, Operations, Compliance, Engineering), delivering prescriptive action plans that improved issue resolution cycle time by ~25%
-- Ran structured root-cause analyses (5-Why, Pareto, fishbone) on procurement bottlenecks; standardized fixes reduced repeat escalations by 20%
-- Built demand forecasting insights from CRM pipelines to surface supply risks 2–3 weeks ahead of potential shortages
-- Ran scenario and sensitivity analyses on supplier delivery trends and demand adoption curves to support proactive supply plan adjustments
-
-### Business Associate — Operations & Inventory | P&B Pvt Limited / R. Tata & Co.
-**Jan 2022 – Feb 2023 | Hyderabad, India**
-
-- Redesigned inventory allocation across SKUs using SQL and Tally ERP, reduced stockout risk by 60% and directly improved order fulfillment rates
-- Built anomaly detection models to flag supply discrepancies and logistics deviations, improved issue identification accuracy by 35%, cut mean time-to-corrective-action
-- Engineered statistical demand forecasting models (time-series, seasonality decomposition, MRP-aligned), reduced excess inventory carrying costs by ~15%
-- Automated supply reporting pipelines in SQL and Python, eliminating 100% of manual Excel reporting
-- Built supplier performance scorecards and total-cost-of-supply analyses, identified sourcing inefficiencies, reduced procurement variances by ~10%
-- Standardized procurement workflows (PR to delivery receipt) across 3 sites, cut cycle times by 18%
-
----
-
 ## Projects
 
 ### Credit Risk Intervention & Treatment Effect Analysis — Fleetcor [$70M+]
@@ -183,14 +158,6 @@ DataCamp: SQL, Python, R · Azure AI Essentials · LinkedIn Learning: Excel & Bu
 
 *Currently in USA, Open to relocation*
 *Actively seeking roles — full-time, contract, or hybrid*
-
-| Role | Fit |
-|---|---|
-| **Supply Chain Analyst** | Demand forecasting, inventory optimization, S&OP, supplier scorecards, cost modeling |
-| **Data Analyst** | Python/SQL pipelines, predictive modeling, KPI design, business translation |
-| **Business Analyst** | Cross-functional analytics, root-cause analysis, process improvement, stakeholder reporting |
-| **Operations Analyst** | Logistics analytics, supply continuity, ERP workflows, process standardization |
-| **Analytics Engineer** | Pipeline development, dbt, BI tooling, Power BI/Tableau |
 
 ---
 
